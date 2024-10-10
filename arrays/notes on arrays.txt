@@ -1,0 +1,6 @@
+arrays are just bad for searching
+reading and inserting at constant time
+good and fast access times 
+note that python stores references for lists instead of the actual location
+linear-search 
+ 

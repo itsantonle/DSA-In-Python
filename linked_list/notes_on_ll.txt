@@ -1,0 +1,5 @@
+Scala immutable lists are also linked lists
+
+contains a head and a tail (the tail in scala is the elemets after the head)
+these are good for pointer problems
+nodes are self referential objects 
